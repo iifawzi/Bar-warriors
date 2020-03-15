@@ -1,0 +1,78 @@
+
+/*--N A V I G A T I O N--*/
+.navbar{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: .9rem;
+  letter-spacing: .1rem;
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+.navbar-brand img{
+  height: 2.5rem;
+}
+.navbar-nav li {
+  padding-right: 1rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+  color:white;
+  padding-top: .4rem;
+}
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link:hover{
+  color: #6B1717;
+}
+.home-inner{
+  background-image: url(img/background.jpeg);
+}
+.caption{
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top:35%;
+  z-index: 1;
+  color: white;
+  text-transform: uppercase;
+}
+.caption h1{
+  font-size: 3.1rem;
+  font-weight: 700;
+  text-shadow: .1rem .1rem .8rem black; 
+  letter-spacing: 0.3rem;
+  padding-bottom: 1rem;
+}
+.caption h3{
+  font-size: 2rem;
+  text-shadow: .1rem .1rem .5rem black;
+  padding-bottom: .6rem;
+}
+.btn-lg{
+  border-width: medium;
+  padding: .6rem 1.6rem;
+  font-size: 1.1rem;
+  border-radius: 8px;
+}
+.display-4{
+  font-family: cursive;
+}
+.fa-star,fa-star-helf{
+    color:#CC3338;
+}
+.page-footer{
+  background-color: black;
+  color: #6b7a8a;
+}
+.py-1{
+  color: white;
+}
+.fa-instagram{
+color: #3F729B;
+}
+.fa-google-plus-g{
+  color: #DD4B39;
+
+}
+.fa-facebook-f{
+  color:white;
+}
+
+    
